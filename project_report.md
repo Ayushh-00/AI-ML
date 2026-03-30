@@ -69,7 +69,7 @@ Since no suitable public dataset existed, a **synthetic dataset of 200 records**
 
 The MAE shows average prediction error in hours. The R² score indicates how well the model explains variance in study hours. A scatter plot of Actual vs Predicted values is generated and saved automatically.
 
-> **[Insert screenshot of results_plot.png here]**
+
 
 ---
 
