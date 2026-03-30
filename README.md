@@ -71,13 +71,13 @@ A scatter plot comparing actual vs predicted study hours is saved to `results_pl
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 Python · pandas · numpy · scikit-learn · matplotlib · seaborn
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Collect real student data via a survey
 - Try advanced models (Random Forest, XGBoost)
@@ -85,7 +85,7 @@ Python · pandas · numpy · scikit-learn · matplotlib · seaborn
 
 ---
 
-## 👤 Author
+##  Author
 
 **AYUSH KUMAR SINGH** — BTECH-CSE, 25BCE11163, VIT BHOPAL UNIVERSITY 
 GitHub: (https://github.com/Ayushh-00)
