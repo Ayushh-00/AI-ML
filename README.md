@@ -68,7 +68,8 @@ python src/model.py
 | R² Score | ~0.75–0.85|
 
 A scatter plot comparing actual vs predicted study hours is saved to `results_plot.png`.
-
+OUTPUT SCREEN- 
+![OUTPUT SCREEN WITH GIVEN MAE AND R VALUE](OUTPUT-SCREEN.png)
 ---
 
 ##  Tech Stack
