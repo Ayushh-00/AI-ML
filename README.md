@@ -64,8 +64,8 @@ python src/model.py
 
 | Metric | Value |
 |---|---|
-| Mean Absolute Error (MAE) | ~X.XX hours |
-| R² Score | ~0.XX |
+| Mean Absolute Error (MAE) |~2.4 – 2.6 hours|
+| R² Score | ~0.75–0.85|
 
 A scatter plot comparing actual vs predicted study hours is saved to `results_plot.png`.
 
