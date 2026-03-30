@@ -67,7 +67,7 @@ python src/model.py
 | Mean Absolute Error (MAE) | ~X.XX hours |
 | R² Score | ~0.XX |
 
-A scatter plot comparing actual vs predicted study hours is saved to `results/results_plot.png`.
+A scatter plot comparing actual vs predicted study hours is saved to `results_plot.png`.
 
 ---
 
